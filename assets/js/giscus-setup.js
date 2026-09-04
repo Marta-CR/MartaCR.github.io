@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "Marta-CR/Curriculum",
+    "data-repo": "Marta-CR/marta-cr.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
