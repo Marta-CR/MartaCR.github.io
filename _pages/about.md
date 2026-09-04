@@ -2,33 +2,33 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Computational Chemist · University of Oviedo
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>University of Oviedo</p>
+    <p>Oviedo, Spain</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: false
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
+  enabled: false
+  scrollable: true
+  limit: 5
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a computational chemist and lecturer at the University of Oviedo. My research focuses on understanding chemical reactivity through electronic-structure calculations, with particular interests in reaction mechanisms, catalysis, astrochemistry and prebiotic chemistry.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I develop and apply computational workflows for automated reaction discovery, transition-state analysis and molecular modelling. I am also interested in high-performance computing, scientific software development and reproducible tools for analysing chemical reaction pathways.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before joining the University of Oviedo, I worked as a computational research scientist at the Galician Supercomputing Centre (CESGA) and held research positions at the University of Alcalá, the University of Santiago de Compostela, the University of Groningen and the University of Vigo.
+
+My work combines methodological development with applications to organic and organometallic chemistry, aiming to connect molecular-level simulations with experimentally relevant chemical behaviour.
